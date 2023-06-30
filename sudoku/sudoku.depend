@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688081130 source:c:\users\nirma\onedrive\desktop\sudoku\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
